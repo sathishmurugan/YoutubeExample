@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">YoutubeExample</string>
+    <string name="video_name">Video Name</string>
+</resources>
